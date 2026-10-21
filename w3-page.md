@@ -2,6 +2,9 @@
 
 This week we will dive into the concept of the [Essential Climate Variable: Terrestrial Water Storage (TWS)](https://gcos.wmo.int/site/global-climate-observing-system-gcos/essential-climate-variables/terrestrial-water-storage-tws). In a nutshell, terrestrial water storage (change) is an aggregate measure of all liquid and solid water present in the terrestrial sphere. Although its absolute values are hard to observe, e.g. the inactive storages in aquifers, the time variable components can be detected from space through the gravity field anomalies they are inducing. 
 
+The time derivative of Terrestrial Water Storage anomalies is, besides Precipitation (P), Evapo-transpiration (ET) and Runoff, the crucial storage term in the water balance equation. Therefore, its observation, besides, P and ET add valueable complementary information.   
+
+
 The lecture slides and video's will cover the concepts of this week. Furthermore, a Jupyter Notebook exercise has been prepared on the Innovation Lab which can be used to compute a basin averaged TWS time series from real satellite gravimetry data from the GRACE and GRACE-FO missions.
 
 
